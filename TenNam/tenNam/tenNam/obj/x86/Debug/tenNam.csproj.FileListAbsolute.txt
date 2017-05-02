@@ -1,0 +1,4 @@
+E:\Projects\C#\TenNam\tenNam\tenNam\bin\Debug\tenNam.exe
+E:\Projects\C#\TenNam\tenNam\tenNam\bin\Debug\tenNam.pdb
+E:\Projects\C#\TenNam\tenNam\tenNam\obj\x86\Debug\tenNam.exe
+E:\Projects\C#\TenNam\tenNam\tenNam\obj\x86\Debug\tenNam.pdb

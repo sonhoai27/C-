@@ -1,0 +1,6 @@
+E:\Projects\C#\BaiMot\BaiMot\bin\Debug\BaiMot.exe.config
+E:\Projects\C#\BaiMot\BaiMot\bin\Debug\BaiMot.exe
+E:\Projects\C#\BaiMot\BaiMot\bin\Debug\BaiMot.pdb
+E:\Projects\C#\BaiMot\BaiMot\obj\Debug\BaiMot.csprojResolveAssemblyReference.cache
+E:\Projects\C#\BaiMot\BaiMot\obj\Debug\BaiMot.exe
+E:\Projects\C#\BaiMot\BaiMot\obj\Debug\BaiMot.pdb
